@@ -1,4 +1,4 @@
-# masked_image_classification
+# Masked_Image_Classification
 
 ## Getting Started    
 ### Dependencies
